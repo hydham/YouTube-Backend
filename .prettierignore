@@ -6,3 +6,8 @@ node_modules/
 
 # Ignore dist folder
 dist/
+
+# Ignore env files
+.env
+*.env
+.env.*
